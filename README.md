@@ -2,4 +2,4 @@
 
 using HTML/CSS/JS
 
-https://codepen.io/etnad-thunderwood/pen/KKPWyva
+UI : https://codepen.io/etnad-thunderwood/full/KKPWyva
